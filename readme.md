@@ -1,3 +1,5 @@
-# Git and GitHUb
+# Git and GitHub
+
+This is the updated in the Main Branch...
 
 This is the Update in the Features Branch...
